@@ -5,8 +5,8 @@ The model predicts if a patient has a heart disease or not based on the input by
 **0** meaning **no heart disease**  
 **1** being the patient is **affected by a heart disease**
 
-**Language : Python3
-IDE : Jupyter Notebook**
+**Language : Python3**  
+**IDE : Jupyter Notebook**
 
 **Accuracy = 85%**
 
