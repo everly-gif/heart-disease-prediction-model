@@ -8,6 +8,6 @@ The model predicts if a patient has a heart disease or not based on the input by
 **Language : Python3**  
 **IDE : Jupyter Notebook**
 
-**Accuracy = 85%**
+**Accuracy = 81%**
 
 **Dataset** : https://www.kaggle.com/ronitf/heart-disease-uci
